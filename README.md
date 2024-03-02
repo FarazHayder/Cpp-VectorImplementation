@@ -11,7 +11,7 @@ The `MyVectorImplementation.h` file contains a custom implementation of vectors,
 - Dynamic resizing: The vector automatically adjusts its size to accommodate the elements added to it.
 - Access methods: Provides methods for accessing elements at specific indices, adding elements, removing elements, and more.
 - Memory management: Handles memory allocation and deallocation internally to ensure efficient usage of memory.
-- Generic: Can store elements of any data type.
+- Templatized: Can store elements of any data type i.e. generic, due to implementation of templates.
 
 ## Usage
 To use the `MyVectorImplementation.h` file in your C++ projects, simply include it in your source code:
