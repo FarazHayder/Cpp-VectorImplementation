@@ -1,4 +1,4 @@
-/*FarazHayder_I222687_A1*/
+/*FarazHayder*/
 #if !defined(MyVectorImplementation)
 #define MyVectorImplementation
 
